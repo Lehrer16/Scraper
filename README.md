@@ -14,6 +14,9 @@ Open in any terminal and run the following command:
 python3 scraper.py
 ```
 
+## Usage Video
+
+https://drive.google.com/file/d/18G0m4_7gzjPRPrAqmYzulaceg1AjFKjN/view?usp=sharing
 
 ## Contributing
 
