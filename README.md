@@ -1,6 +1,6 @@
 # Scraper
 
-This is a program I was commissioned to create that takes in an office ID and searches for contact information from realtors using the Minnesota MLS website. it searches for the specific class name used by the website to find the entries then scrapes only the Name, Phone, and Email of each entry per their request.
+This is a program I was commissioned to create that takes in an office ID and searches for contact information from realtors using the Minnesota MLS website. it searches for the specific class name used by the website to find the entries then scrapes only the Name, Phone, and Email of each entry per their request. It then outputs the information in a CSV to be easily imported to a spreadsheet.
 
 ## Installation
 
